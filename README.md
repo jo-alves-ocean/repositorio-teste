@@ -19,3 +19,9 @@ git config user.name
 ```
 git config user.email
 ```
+
+## Criando um repositório
+
+```
+git init
+```
