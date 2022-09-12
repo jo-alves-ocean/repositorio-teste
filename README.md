@@ -61,3 +61,9 @@ git commit -m "mensagem de commit"
 ```
 git log
 ```
+
+## Unindo commits
+
+```
+git reabse -i hash_do_commit
+```
