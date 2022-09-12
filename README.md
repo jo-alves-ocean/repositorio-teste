@@ -31,3 +31,9 @@ git init
 ```
 git clone link_do_repositório
 ```
+
+## Verificando status
+
+```
+git status
+```
