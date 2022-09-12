@@ -80,3 +80,8 @@ git commit --amend -m "mensage_de_commit"
 git restore nome_do_arquivo
 ```
 
+## Desfazendo uma alteração que está na stage area
+
+```
+git restore --staged nome_do_arquivo
+```
