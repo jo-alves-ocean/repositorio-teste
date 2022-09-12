@@ -65,5 +65,5 @@ git log
 ## Unindo commits
 
 ```
-git reabse -i hash_do_commit
+git rebase -i hash_do_commit
 ```
