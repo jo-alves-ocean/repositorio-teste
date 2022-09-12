@@ -73,3 +73,10 @@ git rebase -i hash_do_commit
 ```
 git commit --amend -m "mensage_de_commit"
 ```
+
+## Desfazendo uma alteração que ainda não está na stage area
+
+```
+git restore nome_do_arquivo
+```
+
