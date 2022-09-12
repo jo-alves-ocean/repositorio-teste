@@ -37,3 +37,9 @@ git clone link_do_repositório
 ```
 git status
 ```
+
+## Adicionando arquivos/mudanças na stage area
+
+```
+git add nome_do_arquivo
+```
