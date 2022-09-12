@@ -25,3 +25,9 @@ git config user.email
 ```
 git init
 ```
+
+## Clonando um repositório
+
+```
+git clone link_do_repositório
+```
