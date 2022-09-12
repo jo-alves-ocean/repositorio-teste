@@ -49,3 +49,9 @@ git add nome_do_arquivo
 ```
 git diff
 ```
+
+## Realizando commit
+
+```
+git commit -m "mensagem de commit"
+```
