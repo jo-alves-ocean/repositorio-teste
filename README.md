@@ -10,3 +10,12 @@ git config user.name "nome_de_usuário"
 ```
 git config user.email "emaildousuário@gmail.com"
 ```
+## Verificando nome de usuário e email
+
+```
+git config user.name
+```
+
+```
+git config user.email
+```
