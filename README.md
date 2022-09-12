@@ -43,3 +43,9 @@ git status
 ```
 git add nome_do_arquivo
 ```
+
+## Verificando mudanças que não estão na stage area
+
+```
+git diff
+```
