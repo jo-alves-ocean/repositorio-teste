@@ -67,3 +67,9 @@ git log
 ```
 git rebase -i hash_do_commit
 ```
+
+## Corrigindo mensagem de commit
+
+```
+git commit --amend -m "mensage_de_commit"
+```
