@@ -1,1 +1,1 @@
-print("repositorio teste")
+print("repositorio teste para o curso de git")
