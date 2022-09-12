@@ -85,3 +85,9 @@ git restore nome_do_arquivo
 ```
 git restore --staged nome_do_arquivo
 ```
+
+## Desfazendo uma alteração que foi commitada
+
+```
+git revert hash_do_commit
+```
