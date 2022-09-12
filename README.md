@@ -55,3 +55,9 @@ git diff
 ```
 git commit -m "mensagem de commit"
 ```
+
+## Verificando status do repositório
+
+```
+git log
+```
