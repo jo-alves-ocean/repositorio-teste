@@ -102,7 +102,7 @@ git stash drop número
 git stash pop
 ```
 
-## Salvando temporariamente
+## Trabalhando com repositórios remotos
 
 ```
 git fetch
