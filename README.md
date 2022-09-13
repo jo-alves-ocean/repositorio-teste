@@ -91,3 +91,12 @@ git restore --staged nome_do_arquivo
 ```
 git revert hash_do_commit
 ```
+
+## Salvando temporariamente
+
+```
+git stash
+git stash apply número
+git stash drop número
+git stash pop
+```
