@@ -38,13 +38,13 @@ git clone link_do_repositório
 git status
 ```
 
-## Adicionando arquivos/mudanças na stage area
+## Adicionando arquivos/mudanças na staging area
 
 ```
 git add nome_do_arquivo
 ```
 
-## Verificando mudanças que não estão na stage area
+## Verificando mudanças que não estão na staging area
 
 ```
 git diff
@@ -74,13 +74,13 @@ git rebase -i hash_do_commit
 git commit --amend -m "mensage_de_commit"
 ```
 
-## Desfazendo uma alteração que ainda não está na stage area
+## Desfazendo uma alteração que ainda não está na staging area
 
 ```
 git restore nome_do_arquivo
 ```
 
-## Desfazendo uma alteração que está na stage area
+## Desfazendo uma alteração que está na staging area
 
 ```
 git restore --staged nome_do_arquivo
