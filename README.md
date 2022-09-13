@@ -102,6 +102,14 @@ git stash drop número
 git stash pop
 ```
 
+## Criando um repositório remoto
+
+```
+git remote add origin link_do_repositório
+git branch -M main
+git push -u origin main
+```
+
 ## Trabalhando com repositórios remotos
 
 ```
