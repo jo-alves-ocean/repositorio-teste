@@ -101,3 +101,11 @@ git stash apply número
 git stash drop número
 git stash pop
 ```
+
+## Salvando temporariamente
+
+```
+git fetch
+git pull
+git push
+```
