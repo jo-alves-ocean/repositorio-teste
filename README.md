@@ -96,6 +96,7 @@ git revert hash_do_commit
 
 ```
 git stash
+git stash list
 git stash apply número
 git stash drop número
 git stash pop
